@@ -1,3 +1,3 @@
 # codeup
 
-codeup 문제풀이
+codeup 문제 풀이입니다.
